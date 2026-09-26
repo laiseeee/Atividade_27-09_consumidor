@@ -6,4 +6,5 @@
 
 ## Regra do projeto
 Usar somente caso_sanitizado.md e fontes em apoio/.
+
 Não produzir aconselhamento jurídico individual.

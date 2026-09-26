@@ -7,7 +7,7 @@ Consumidora que realizou uma compra pela internet, recebeu um produto diferente 
 entrada/ preserva o relato bruto do cliente; apoio/ contém as fontes permitidas; docs/ define as regras e os prompts; evidencias/ registra o fluxo de análise, saídas brutas da IA e as correções humanas; entrega/ contém o documento final lapidado.
 
 ## Repositório
-(https://github.com/laiseeee/Atividade_27-09_consumidor.git)
+(https://github.com/laiseeee/Laise-de-Oliveira-Borges-projeto.git)
 
 ## Como executar
 Ler docs/especificacao.md e prompts/consulta_rag.md e usar somente os arquivos da pasta apoio/.
