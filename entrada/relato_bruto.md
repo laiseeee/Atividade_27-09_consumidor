@@ -1,0 +1,3 @@
+# Relato bruto do caso
+
+Joana comprou uma cafeteira preta no site Compras Online pelo valor de R$ 350,00. Quando recebeu o produto, percebeu que a cafeteira era branca e tinha algumas características diferentes das que apareciam no anúncio. Joana entrou em contato com a loja dois dias depois do recebimento do produto para pedir a troca ou o valor integral pago. A empresa se recusou a receber o produto e a devolver o dinheiro. Joana quer saber quais são os direitos dela.

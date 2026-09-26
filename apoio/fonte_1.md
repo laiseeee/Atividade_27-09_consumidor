@@ -1,0 +1,12 @@
+# Fonte 1
+
+# Identificação
+Código de Defesa do Consumidor – art. 49.
+
+## Trecho conferido
+Art. 49. O consumidor pode desistir do contrato, no prazo de 7 dias a contar de sua assinatura ou do ato de recebimento do produto ou serviço, sempre que a contratação de fornecimento de produtos e serviços ocorrer fora do estabelecimento comercial, especialmente por telefone ou a domicílio.
+
+Parágrafo único. Se o consumidor exercitar o direito de arrependimento previsto neste artigo, os valores eventualmente pagos, a qualquer título, durante o prazo de reflexão, serão devolvidos, de imediato, monetariamente atualizados.
+
+## Uso no projeto
+A fonte será utilizada para verificar se a consumidora ainda está dentro do prazo para desistir da compra e solicitar a devolução do valor pago.
